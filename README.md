@@ -1,5 +1,18 @@
-# Composer template for Drupal projects
+# UCLA Senior Fellows Website
 
+## Senior Fellows Repo Structure
+SF Project (this repo) -> SiteFarm UCLA Library Subprofile -> SiteFarm Seed Profile
+
+## UCLALibrary/ucla-senior-fellows (to be created, currently in z3cka)
+* cusom modules and themes for SF
+* config for project
+
+## UCLALibrary/sitefarm-uclalib
+* UCLALibrary/ucla_gateway (to be created, currently in z3cka)
+* UCLALibrary/sitefarm_seed
+
+
+### from template:
 [![Build Status](https://travis-ci.org/drupal-composer/drupal-project.svg?branch=8.x)](https://travis-ci.org/drupal-composer/drupal-project)
 
 This project template should provide a kickstart for managing your site
